@@ -1,0 +1,50 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.15"]
+[Round "-"]
+[White "DarkUise"]
+[Black "pchasan"]
+[Result "1-0"]
+[CurrentPosition "Q2Qk2r/p1p3p1/7p/2b1Pp2/7P/5N2/PP3nP1/RNB1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation"]
+[UTCDate "2021.02.15"]
+[UTCTime "21:53:01"]
+[WhiteElo "790"]
+[BlackElo "748"]
+[TimeControl "600"]
+[Termination "DarkUise won by resignation"]
+[StartTime "21:53:01"]
+[EndDate "2021.02.15"]
+[EndTime "22:00:03"]
+[Link "https://www.chess.com/live/game/6569946613"]
+
+1. e4 d5 2. exd5 Qxd5 3. c4 Qd8 {INACCURACY (+1.18)} ({(+0.41) The best move
+was} 3... Qe4+ 4. Ne2 e5 5. d4 exd4 6. Qxd4 Qe7 7. Nc3 Nc6 8. Qe3 Qxe3 9. Bxe3)
+4. d4 {INACCURACY (+0.33)} ({(+1.18) The best move was} 4. Nf3 c5 5. d4 cxd4 6.
+Qxd4 Nc6 7. Qxd8+ Nxd8 8. Be3) 4... f5? ± {MISTAKE (+2.25)} ({(+0.33) The best
+move was} 4... e5 5. Ne2 Nf6 6. Nbc3 exd4 7. Qxd4 Qxd4 8. Nxd4 Nbd7) 5. f4 =
+{INACCURACY (+1.21)} ({(+2.25) The best move was} 5. Nf3 Nf6 6. Nc3 e6 7. a3 c5
+8. Bf4 cxd4 9. Nb5) 5... Nf6 6. Nf3 e5? ± {MISTAKE (+2.80)} ({(+1.01) The best
+move was} 6... e6 7. Nc3 Bb4 8. h3 Nc6) 7. fxe5 Ne4 {INACCURACY (+3.47)}
+({(+2.75) The best move was} 7... Bb4+ 8. Nc3 Ne4 9. Qb3 Bxc3+ 10. bxc3 O-O 11.
+c5+ Kh8 12. Bc4 Nc6 13. O-O) 8. h4 {INACCURACY (+2.24)} ({(+3.47) The best move
+was} 8. Nc3 Bb4 9. Qc2 O-O 10. Bd3 Nc6 11. d5 Bxc3+ 12. bxc3) 8... Be7 9. c5
+{INACCURACY (+1.53)} ({(+2.50) The best move was} 9. Nc3 O-O 10. Bd3 Ng3 11. Rh3
+f4 12. Qc2 Bxh3 13. Bxh7+ Kh8 14. gxh3 Bb4 15. d5) 9... h6 {INACCURACY (+2.86)}
+({(+1.53) The best move was} 9... Be6 10. Bd3 Nc6 11. Nc3 Nxd4 12. Bxe4 fxe4 13.
+Nxe4 Nb5) 10. Bb5+ {INACCURACY (+1.82)} ({(+2.86) The best move was} 10. Bc4 b5
+11. Bb3 b4 12. O-O Nc6 13. a3 Bxh4 14. Ba4) 10... Nc6 11. d5 = {INACCURACY
+(+0.80)} ({(+1.86) The best move was} 11. Qb3 a6 12. Ba4 Bxc5 13. dxc5 Nxc5 14.
+Qc4 Nxa4 15. Qxa4 Be6 16. Qc2) 11... Bxc5? ± {MISTAKE (+3.65)} ({(+0.80) The
+best move was} 11... O-O 12. Nc3 Nxe5 13. Nxe5 Bxh4+ 14. Ke2 Ng3+ 15. Kd3 Bf6
+16. Ng6 c6 17. Bc4 Nxh1) 12. dxc6 Nf2?? {BLUNDER (+15.90)} ({(+2.75) The best
+move was} 12... Ke7 13. Nc3 Qxd1+ 14. Nxd1 Bb4+ 15. Bd2 Nxd2 16. Nxd2 Rd8) 13.
+cxb7+ Bd7 14. Bxd7+ Qxd7?? {BLUNDER (+26.20)} ({(+10.77) The best move was}
+14... Ke7 15. Qd5 Nxh1 16. Qe6+ Kf8 17. bxa8=Q Qxa8 18. Qxf5+ Ke7 19. Qg4 Kf7
+20. Kf1) 15. bxa8=Q+ Qd8?? {BLUNDER (♔ Mate in 5)} ({(+26.27) The best move was}
+15... Ke7 16. Qxd7+ Kxd7 17. Qxh8 Nxh1 18. Qxg7+ Kc8 19. Qg6 Bf2+ 20. Kf1 Bb6
+21. Nc3 Kb7 22. Bxh6) 16. Qdxd8+ {FASTER MATE (♔ Mate in 5)} ({(♔ Mate in 5)
+Checkmate after} 16. Qaxd8+ Kf7 17. Q1d7+ Kg6 18. h5+ Kh7 19. Qxf5+ g6 20.
+Qxg6#) 1-0
